@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\miska\source\repos\tehtävä4\tehtävä4\main.cpp(14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\miska\source\repos\tehtävä4\tehtävä4\main.cpp(30): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 2 has type 'int'
+c:\users\miska\source\repos\tehtävä4\tehtävä4\main.cpp(30): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'int *'
+c:\users\miska\source\repos\tehtävä4\tehtävä4\main.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  Tehtävä4.vcxproj -> C:\Users\Miska\source\repos\Tehtävä4\Debug\Tehtävä4.exe
